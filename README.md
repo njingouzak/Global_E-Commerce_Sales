@@ -39,26 +39,27 @@ This dataset has been downloaded from Kaggle platform (URL). It contains 2000 tr
 ---
 ### **Technologies Used**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)  
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 
 ---
 ### **Project Workflow**
 
-- Data prepation: Checking and addressing missing values and duplicates, converting data types, features engineering
-- Exploratory Data Analysis (EDA): Descriptive statistics, grouping data, correlation
-- Data Visualization: Line chart, Bar chart, Pie chart, Bubble chart, Scatter plot, Heatmap
-- Dashboard: Dropdown list, KPI, Line chart, Bar chart, Pie chart, Country map
+- **Data prepation**: Checking and addressing missing values and duplicates, converting data types, features engineering
+- **Exploratory Data** Analysis (EDA): Descriptive statistics, grouping data, correlation
+- **Data Visualization**: Line chart, Bar chart, Pie chart, Bubble chart, Scatter plot, Heatmap
+- **Dashboard**: Dropdown list, KPI, Line chart, Bar chart, Pie chart, Country map
 
 ---
 ### **Key Insights**
 
 
+---
 ### **Contributors**
 
 
