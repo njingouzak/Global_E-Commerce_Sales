@@ -18,7 +18,7 @@ The workflow followed in this notebook includes data loading, data inspection, d
 ---
 ### **Dataset**
 
-This dataset has been downloaded from Kaggle platform (URL). It contains 2000 transactions and 15 features:
+This dataset has been downloaded from Kaggle platform (https://www.kaggle.com/datasets/muhammadaammartufail/global-e-commerce-sales-and-customer-data/data). It contains 2000 transactions and 15 features:
 
 - `Order_ID`:	Unique order identifier (ORD-10001 to ORD-12000)
 - `Order_Date`:	Transaction date (2023-01-01 to 2025-12-31)
