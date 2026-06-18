@@ -53,7 +53,7 @@ The dataset used in this project has been downloaded from `Kaggle` platform (htt
 - **Data prepation**: Checking and addressing missing values and duplicates, converting data types, features engineering
 - **Exploratory Data** Analysis (EDA): Descriptive statistics, grouping data, correlation
 - **Data Visualization**: Line chart, Bar chart, Pie chart, Bubble chart, Scatter plot, Heatmap
-- **Dashboard**: Dropdown list, KPI, Line chart, Bar chart, Pie chart, Country map
+- **Interactive Dashboard Development**: Dropdown list, KPI, Line chart, Bar chart, Pie chart, Country map
 
 ---
 ### **Key Insights**
